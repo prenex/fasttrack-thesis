@@ -1,4 +1,4 @@
-Általános és alátámasztott erőforrás-igény predikció
+Általános és alátámasztott erőforrás-igény predikció {#eroforras}
 ====================================================
 
 TODO: Rövid bevezető a fejezethez: optimalizációk és profilozás
